@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.kageno_qq.twa",
+        "sha256_cert_fingerprints": ["4C:95:72:A8:4B:4E:70:CF:27:9D:1A:54:7A:D2:02:53:2B:8F:1B:7D:21:3F:D5:58:2F:CE:FA:35:94:BD:84:80"]
+      }
+    }]
